@@ -1,1 +1,3 @@
 Test file to be committed to GIT repository.
+
+Another line added.
