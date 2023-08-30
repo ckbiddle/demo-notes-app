@@ -1,5 +1,0 @@
-Test file to be committed to GIT repository.
-
-Another line added.
-
-This is a line I added on 08/30/2023.
