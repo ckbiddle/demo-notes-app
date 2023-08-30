@@ -1,0 +1,25 @@
+{
+  "name": "notes",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "sst dev",
+    "build": "sst build",
+    "deploy": "sst deploy",
+    "remove": "sst remove",
+    "console": "sst console",
+    "typecheck": "tsc --noEmit",
+    "test": "sst bind vitest run"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^16.1.0",
+    "aws-cdk-lib": "^2.92.0",
+    "constructs": "10.1.156",
+    "sst": "^2.23.13",
+    "typescript": "^5.1.6"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
