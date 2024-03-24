@@ -1,0 +1,10 @@
+[31-Jan-2024 17:11:35 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/qbr9v8qbc5sm/public_html/demo/model/DBFunctions.php on line 250
+[31-Jan-2024 17:11:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/qbr9v8qbc5sm/public_html/demo/model/DBFunctions.php on line 250
+[31-Jan-2024 17:11:53 UTC] PHP Warning:  mkdir(): File exists in /home/qbr9v8qbc5sm/public_html/demo/controller/Functions.php on line 266
+[31-Jan-2024 17:11:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/qbr9v8qbc5sm/public_html/demo/model/DBFunctions.php on line 250
+[31-Jan-2024 17:11:53 UTC] PHP Warning:  mkdir(): File exists in /home/qbr9v8qbc5sm/public_html/demo/controller/Functions.php on line 266
+[31-Jan-2024 19:49:47 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/qbr9v8qbc5sm/public_html/demo/model/DBFunctions.php on line 250
+[31-Jan-2024 19:49:47 UTC] PHP Warning:  mkdir(): File exists in /home/qbr9v8qbc5sm/public_html/demo/controller/Functions.php on line 266
+[03-Feb-2024 16:04:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/qbr9v8qbc5sm/public_html/demo/model/DBFunctions.php on line 250
+[03-Feb-2024 16:04:58 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/qbr9v8qbc5sm/public_html/demo/model/DBFunctions.php on line 250
+[03-Feb-2024 16:04:58 UTC] PHP Warning:  mkdir(): File exists in /home/qbr9v8qbc5sm/public_html/demo/controller/Functions.php on line 266

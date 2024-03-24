@@ -1,0 +1,16 @@
+body
+{
+  overflow-y:scroll;
+  background-color:#EEF;
+  /* background-color:#FFF; */
+  margin:0;
+  padding:0;
+  font-family:Montserrat;
+  /* font-family:Arial, Helvetica, sans-serif; */
+}
+
+.tenant_header
+{
+  font-weight:bold;
+  color:#669;
+}
